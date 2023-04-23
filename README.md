@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @audacitymonkey 
+- 👋 Hi, I’m @audacitymonkey 🙈
 - 👀 I’m interested in financial technology and product management. 
 - 🌱 I’m currently learning python.
 
