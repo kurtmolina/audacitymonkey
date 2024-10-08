@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kurt Molina 🙈
-- 👀 I’m interested in financial technology and payments.  
+- 👋 Hi, I’m Kurt 🙈
+- 👀 I’m interested in financial technology, lending & payments.  
 - 🌱 I’m currently learning SQL and Python. 
 
 <!---
